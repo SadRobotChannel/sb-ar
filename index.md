@@ -2,16 +2,16 @@
 layout: page
 title: أفضل تشفير الحنفيات
 comments: false
-img: https://ar.staleblock.com/assets/images/all-faucets.com-thumb.png
+img: https://ar.all-faucets.com/assets/images/all-faucets.com-thumb.png
 alt: صنابير Cryptocurrency هي أنظمة مكافأة في شكل موقع ويب أو تطبيق يقوم بتوزيع العملات المعدنية المجانية.
 desc: إذا كنت جديدا على تشفير الحنفيات هذا الموقع هو لك. تعرّف على كيفية زيادة قيمة وقتك وجهدك أثناء المطالبة من مواقع صنبور بيتكوين المجانية.
-URL: https://ar.staleblock.com/index.html
+URL: https://ar.all-faucets.com/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
 إذا كنت جديدا على تشفير الحنفيات هذا الموقع هو لك. نحن ندرج عملة البيتكوين وغيرها من صنابير العملة الرقمية التي يتم التحقق من قيمتها وسمعتها. عادة ما يبدأ الناس في تجربة الحنفيات بدافع الفضول ، أو كهواية ، ولكن مع بعض المعرفة والاتساق ، يمكن لهذه الهواية أن تقدم دخلاً جيدًا. هدفنا هو تبادل المعرفة وتمكينك من كسب العملة الرقمية بالطريقة التي تناسب اهتماماتك وأسلوب حياتك.
 
-أكمل القراءة: <a href="https://ar.staleblock.com/daily/2019/12/12/index.html">الشروع في العمل مع الحنفيات بيتكوين</a>.
+أكمل القراءة: <a href="https://ar.all-faucets.com/daily/2019/12/12/index.html">الشروع في العمل مع الحنفيات بيتكوين</a>.
 
 ---
 #### الحنفيات المفضلة لعام 2019
