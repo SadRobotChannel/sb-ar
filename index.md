@@ -14,32 +14,29 @@ URL: https://ar.all-faucets.com/index.html
 أكمل القراءة: <a href="https://ar.all-faucets.com/daily/2019/12/12/index.html">الشروع في العمل مع الحنفيات بيتكوين</a>.
 
 ---
-#### الحنفيات المفضلة لعام 2019
+#### 2019 في الملخص
 
-لقد تغير الكثير منذ أن نشرنا هذا الموقع لأول مرة. أولاً ، ارتفع سعر البيتكوين من حوالي 3500 دولار أمريكي إلى أكثر من 10،000 دولار أمريكي في بعض الأحيان ليصل إلى 12 أو 13 ألف دولار أمريكي. مثل هذه الزيادة في القيمة وضعت العديد من مواقع الصنابير خارجة عن العمل ، لأنهم لا يستطيعون التخلي عن المكافآت الموعودة. لقد أصبح الكثيرون غير متصلين دون توزيع المبالغ في محفظتك ، وبالتالي سرقة أموالك. هذه هي المخاطر التي يجب أن تكون على دراية بها وقبولها عند استثمار وقتك أو أموالك في الخدمات المتعلقة بعملة العملة المشفرة.
+كان للعام 2019 تأثير مدمر على صنابير العملة المشفرة. ظهرت مئات من مواقع الحنفيات على الإنترنت ، حيث بدأ العام بسعر البيتكوين في حدود 3500 دولار أمريكي. ثم ، مع ارتفاع سعر BTC إلى أكثر من 10000 دولار أمريكي يصل في بعض الأحيان إلى 12 أو 13 ألف دولار أمريكي ، أغلقت معظم المواقع أو جعلت واجهاتها غير صالحة للاستعمال (التحميل الزائد بالنقرات والإعلانات).
 
-ومع ذلك ، تظل مواقع الحنفيات التالية موالية لأعضائها وتستمر في توزيع satoshi المجانية:
+أدت الزيادة في قيمة التشفير التي رأيناها في منتصف عام 2019 إلى جعل العديد من مواقع الصنابير غير صالحة للعمل ، حيث لم يكن بمقدورهم التخلي عن المكافآت الموعودة. ذهب العديد منهم إلى وضع عدم الاتصال دون توزيع المبالغ في محفظتك ، وبالتالي سرقوا أموالك المكتسبة. هذه هي المخاطر التي تحتاج إلى معرفتها وقبولها عند استثمار وقتك في الخدمات المتعلقة بالصنابير.
 
-- <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
-- <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>
-- <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a>
-- <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a>
-- <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a>
-- <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a>
-- <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a>
-- <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a>
-- <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a>
-- <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
-- <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
+#### تشفير الحنفيات التي لا تزال تعمل في عام 2020
+
+نوصي بمواقع الحنفيات الـ 11 التالية. يظلون مخلصين لأعضائهم ويواصلون صرف العملات الحرة:
+
+1. <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a> - دفعت 2 تصفح الموقع
+2. <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a> - صنبور كل ساعة مع مصلحة
+3. <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a> - المطالبة كل 30 دقيقة ، Altcoins في الغالب ، عمادا
+4. <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a> - صنبور كل ساعة مع مصلحة
+5. <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a> - لعبة صنبور التشفير
+6. <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a> - لعبة صنبور التشفير
+7. <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a> - لعبة صنبور التشفير
+8. <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a> - و autofaucet
+9. <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a> - صنبور كل ساعة مع مصلحة
+10. <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a> - صنبور كل ساعة مع مصلحة
+11. <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a> - لعبة صنبور التشفير
 
 ما هي تجربتك مع صنابير التشفير؟ هل حاولت أي منهم؟ هل لديك موقع مفضل
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
-
----
-#### انضم إلى مجتمع التشفير الجديد
-
-هذا الموقع ، all-faucets.com يركز بشكل خاص على صنابير العملة المشفرة. وبينما يشير اسم النطاق إلى أننا سنقوم بإدراج "جميع" الحنفيات ، في الواقع لا يوجد سوى حفنة من الحنفيات الجيدة التي تستحق وقتك وجهدك. ومع ذلك ، هناك العديد من الطرق الأخرى التي يمكنك من خلالها كسب العملة المشفرة - التعدين ، والطعم ، والاكتتابات العامة ، والهبوط الجوي ، وظائف cryto وما إلى ذلك. هناك الكثير من الفرص ، لكنك تحتاج إلى معلومات جيدة من أجل استخدام هذه الفرص لصالحك.
-
-ولهذا السبب ، فقد بدأت موقع مجتمع جديد ، <a href="https://www.staleblock.com/" target="_blank">StaleBlock.com</a>. عالم تشفير يتجاوز بكثير صنابير التشفير! انضم إليّ لبناء مجتمع تشفير ذكي في <i>StaleBlock.com</i>.
